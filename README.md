@@ -1,4 +1,4 @@
-# Alessio's Pizzaria - Projeto Web Simples
+# Alessio's Pizzaria
 
 Bem-vindo ao repositório do projeto **Alessio's Pizzaria**, um site simples de uma pizzaria imaginária desenvolvido como parte do curso de CSS da plataforma **OneBitCode**. Este projeto foi criado para praticar e aprimorar habilidades em **HTML** e **CSS**, com foco na construção de um layout responsivo e visualmente atraente.
 
